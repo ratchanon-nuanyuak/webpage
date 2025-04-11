@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NewJeans - ดาวรุ่งแห่งวงการ K-pop</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/NewJeans_logo.svg/1024px-NewJeans_logo.svg.png" type="image/x-icon">
+
+  <style>
+    body {
+      font-family: 'Nunito', sans-serif;
+      background: linear-gradient(to right, #fddde6, #f9f3ff);
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+
+    .jumbotron {
+      background-image: url('https://jangjihoo.com/wp-content/uploads/2023/07/001_Cover-Kpop-NewJeans-%EB%89%B4%EC%A7%84%EC%8A%A4.png');
+      background-size: cover;
+      background-position: center;
+      color: white;
+      text-align: center;
+      padding: 80px 25px;
+    }
+
+    .jumbotron h1 {
+      font-size: 2.5em;
+      background: rgba(255, 64, 129, 0.8);
+      display: inline-block;
+      padding: 10px 20px;
+      border-radius: 10px;
+      display: none;
+    }
+
+    h3 {
+      color: #FF4081;
+    }
+
+    .content-image {
+      width: 100%;
+      height: auto;
+      border-radius: 10px;
+      margin-bottom: 10px;
+    }
+
+    .col-sm-4, .col-sm-6 {
+      background: white;
+      border-radius: 8px;
+      padding: 15px;
+      margin-bottom: 20px;
+    }
+
+    .highlight {
+      background: #fff0f5;
+      padding: 10px;
+      border-left: 5px solid #ff4081;
+      margin: 10px 0;
+    }
+
+    footer {
+      background: #222;
+      color: #fff;
+      padding: 10px 0;
+      text-align: center;
+      margin-top: 30px;
+    }
+
+    .centered-image {
+      display: block;
+      margin: 0 auto 20px;
+      max-width: 80%;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="jumbotron">
+    <h1>NewJeans - <span style="font-weight:300;">ดาวรุ่งแห่งวงการ K-pop</span></h1>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-4">
+        <h3>เกี่ยวกับ NewJeans</h3>
+        <img src="https://blog.delivered.co.kr/wp-content/uploads/2024/03/Newjeans_main_banner-1.jpg" class="content-image" alt="สมาชิก NewJeans">
+        <p>NewJeans เป็นเกิร์ลกรุ๊ปจากเกาหลีใต้ที่มาแรงสุด ๆ เพลงของพวกเธอฟังแล้วติดหูมาก แถมยังมีสไตล์เฉพาะตัวที่ไม่เหมือนใคร</p>
+        <div class="highlight">
+          <strong>วันเดบิวต์:</strong> 22 กรกฎาคม 2022<br>
+          <strong>ค่าย:</strong> ADOR (HYBE)
+        </div>
+      </div>
+
+      <div class="col-sm-4">
+        <h3>สมาชิก</h3>
+        <img src="https://f.ptcdn.info/116/084/000/sdcnvqbtk7oajuVfwlM9-o.png" class="content-image" alt="สมาชิก">
+        <ul>
+          <li><strong>มินจี</strong> – หัวหน้าวง</li>
+          <li><strong>ฮานี</strong> – นักร้องหลัก</li>
+          <li><strong>แดเนียล</strong> – นักเต้นนำ</li>
+          <li><strong>แฮริน</strong> – นักร้อง</li>
+          <li><strong>เฮอิน</strong> – น้องเล็ก</li>
+        </ul>
+      </div>
+
+      <div class="col-sm-4">
+        <h3>เพลงฮิต</h3>
+        <img src="https://s.isanook.com/jo/0/ui/491/2455497/newjeans-press-credit-courtesy-h.jpg" class="content-image" alt="เพลงฮิต">
+        <ul>
+          <li><em>Attention</em> – เพลงเปิดตัวสดใส</li>
+          <li><em>Hype Boy</em> – เสียงหลากหลาย</li>
+          <li><em>Cookie</em> – จังหวะน่ารัก</li>
+          <li><em>Ditto</em> – อบอุ่นใจ</li>
+          <li><em>OMG</em> – สไตล์เป็นเอกลักษณ์</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm-6">
+        <h3>สไตล์และแนวดนตรี</h3>
+        <p>พวกเธอผสมแนว Y2K, R&B, lo-fi ได้ลงตัว ฟังง่ายและทันสมัย แถมยังมีลุคที่สะดุดตาไม่เหมือนใคร</p>
+      </div>
+      <div class="col-sm-6">
+        <h3>แฟนด้อม</h3>
+        <p>แฟนคลับชื่อ “Bunnies” คอยสนับสนุนกันอย่างอบอุ่นเหมือนครอบครัว</p>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm-12">
+        <h3 style="text-align:center;">รางวัลและความสำเร็จ</h3>
+        <img src="https://i.pinimg.com/originals/a8/db/03/a8db03909de7314c8f2383db5ddd8496.gif" class="centered-image" alt="รางวัล">
+        <p class="highlight">NewJeans ได้รับรางวัลใหญ่หลายเวที ทั้ง Billboard, Melon และ MAMA แม้เพิ่งเปิดตัวไม่นาน</p>
+        <p style="text-align: center;">พวกเธอกำลังสร้างเส้นทางใหม่ในวงการ K-pop</p>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm-12">
+        <h3 style="text-align: center;">เสียงจากแฟนคลับ</h3>
+        <div class="highlight">
+          <p><em>"น่ารัก สดใส เพลงดีมาก!"</em> – แฟนชาวไทย</p>
+          <p><em>"พวกเธอทำให้ฉันยิ้มทุกครั้งที่ดู!"</em> – แฟนจากญี่ปุ่น</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <p>&copy;67540086 รัชชานนท์ นวนหยวก</p>
+  </footer>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <script>
+    $(function() {
+      $(".jumbotron h1").fadeIn(1500);
+
+      $(".col-sm-4, .col-sm-6").on("mouseenter", function() {
+        $(this).css({
+          "background-color": "#ffe6f0",
+          "transition": "0.3s"
+        });
+      }).on("mouseleave", function() {
+        $(this).css("background-color", "#fff");
+      });
+
+      console.log("หน้าโหลดเรียบร้อย :)");
+    });
+  </script>
+</body>
+</html>
